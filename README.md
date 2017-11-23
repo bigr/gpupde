@@ -1,2 +1,3 @@
 # gpupde
-Solver of partial differential equations with tensorflow
+
+Ambition of this project is to make solver of PDE equations with help of modern deep leraning frameworks like tensorflow and pytorchs are.
